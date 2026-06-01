@@ -1,3 +1,3 @@
 # nick11255
 
-Northeastern CS 2029
+CS @ Northeastern | Python, TypeScript, React
